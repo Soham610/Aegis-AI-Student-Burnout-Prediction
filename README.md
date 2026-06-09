@@ -100,6 +100,14 @@ text Aegis-AI-Student-Burnout-Prediction │ ├── Backend │   ├── a
 
 ---
 
+## My Contributions
+
+- Developed and structured JSON data used for communication between different components of the system.
+- Contributed to frontend web development and user interface implementation.
+- Designed and managed database structures required for storing and retrieving student-related information.
+- Assisted in integrating database connectivity between the application components.
+- Collaborated with team members during the hackathon to ensure smooth system functionality and data flow.
+
 ## Future Enhancements
 
 - Learning Management System (LMS) Integration
