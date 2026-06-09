@@ -121,6 +121,7 @@ text Aegis-AI-Student-Burnout-Prediction │ ├── Backend │   ├── a
 ## Contributors
 
 Developed collaboratively as part of a hackathon project.
+Team - Mind Matrix
 
 ---
 
